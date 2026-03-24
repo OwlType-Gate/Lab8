@@ -48,6 +48,10 @@
     <button type="submit" class="btn btn-primary">Sign in</button>
   </div>
 
+  <div class="col-12">
+    <a href="viewrecords.php" class="btn btn-info w-100">View Record
+  </div>
+
 </form>
 
 <form class="row g-3" method="POST" action="delete.php">
